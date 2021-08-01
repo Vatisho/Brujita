@@ -1,11 +1,11 @@
 fileFormatVersion: 2
-guid: 70c0bd41b91861945bee5cada87d662f
+guid: 813116e3650d4434b818c9347205e1cb
 ModelImporter:
   serializedVersion: 21100
   internalIDToNameTable:
   - first:
-      74: 1827226128182048838
-    second: Take 001
+      74: -203655887218126122
+    second: mixamo.com
   externalObjects: {}
   materials:
     materialImportMode: 2
@@ -74,7 +74,7 @@ ModelImporter:
     normalCalculationMode: 4
     legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
     blendShapeNormalImportMode: 1
-    normalSmoothingSource: 0
+    normalSmoothingSource: 1
   referencedClips: []
   importAnimation: 1
   humanDescription:
