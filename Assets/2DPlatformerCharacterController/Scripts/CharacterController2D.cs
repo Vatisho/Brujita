@@ -72,6 +72,10 @@ public class CharacterController2D : MonoBehaviour
         // Jumping
         if (Input.GetKeyDown(KeyCode.W) && isGrounded)
         {
+                r2d.velocity = new Vector2(r2d.velocity.x, jumpHeight);
+        }
+        if (Input.GetKeyDown(KeyCode.W) && isGrounded)
+        {
             r2d.velocity = new Vector2(r2d.velocity.x, jumpHeight);
         }
 
