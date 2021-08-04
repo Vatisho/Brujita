@@ -1,0 +1,1104 @@
+fileFormatVersion: 2
+guid: aaaf344dee37c4d4d93fb46ffac913d6
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3001095845632737784
+    second: VAMPIRO_FLOTAR_0
+  - first:
+      213: -6757961049465557319
+    second: VAMPIRO_FLOTAR_1
+  - first:
+      213: 6141402091319383561
+    second: VAMPIRO_FLOTAR_2
+  - first:
+      213: 1022156627803302431
+    second: VAMPIRO_FLOTAR_3
+  - first:
+      213: -3193856676599615043
+    second: VAMPIRO_FLOTAR_4
+  - first:
+      213: 6536478973927739038
+    second: VAMPIRO_FLOTAR_5
+  - first:
+      213: 6327060910579667697
+    second: VAMPIRO_FLOTAR_6
+  - first:
+      213: -6112730665699333825
+    second: VAMPIRO_FLOTAR_7
+  - first:
+      213: -1037831755082566581
+    second: VAMPIRO_FLOTAR_8
+  - first:
+      213: -8081440767105438696
+    second: VAMPIRO_FLOTAR_9
+  - first:
+      213: 7122153962312317069
+    second: VAMPIRO_FLOTAR_10
+  - first:
+      213: -3662896331670059676
+    second: VAMPIRO_FLOTAR_11
+  - first:
+      213: -3388896607753232681
+    second: VAMPIRO_FLOTAR_12
+  - first:
+      213: -1417734085733533396
+    second: VAMPIRO_FLOTAR_13
+  - first:
+      213: -592575932280496008
+    second: VAMPIRO_FLOTAR_14
+  - first:
+      213: -2961425253229318256
+    second: VAMPIRO_FLOTAR_15
+  - first:
+      213: 4161099684892224206
+    second: VAMPIRO_FLOTAR_16
+  - first:
+      213: -3369618285339401852
+    second: VAMPIRO_FLOTAR_17
+  - first:
+      213: 7549652242718624325
+    second: VAMPIRO_FLOTAR_18
+  - first:
+      213: -6137473529692474252
+    second: VAMPIRO_FLOTAR_19
+  - first:
+      213: -3907736664239034191
+    second: VAMPIRO_FLOTAR_20
+  - first:
+      213: -3381501534558026767
+    second: VAMPIRO_FLOTAR_21
+  - first:
+      213: -2400631701956990946
+    second: VAMPIRO_FLOTAR_22
+  - first:
+      213: 1091142801898334148
+    second: VAMPIRO_FLOTAR_23
+  - first:
+      213: 4559612963430331918
+    second: VAMPIRO_FLOTAR_24
+  - first:
+      213: -5998648564151864106
+    second: VAMPIRO_FLOTAR_25
+  - first:
+      213: 5440012074618221437
+    second: VAMPIRO_FLOTAR_26
+  - first:
+      213: 7525215499217496555
+    second: VAMPIRO_FLOTAR_27
+  - first:
+      213: -1382002837971801196
+    second: VAMPIRO_FLOTAR_28
+  - first:
+      213: 1736551679064625634
+    second: VAMPIRO_FLOTAR_29
+  - first:
+      213: 351565746025722256
+    second: VAMPIRO_FLOTAR_30
+  - first:
+      213: 578907556429476671
+    second: VAMPIRO_FLOTAR_31
+  - first:
+      213: -8627624023345689068
+    second: VAMPIRO_FLOTAR_32
+  - first:
+      213: 2644314243550237172
+    second: VAMPIRO_FLOTAR_33
+  - first:
+      213: 617118376826086872
+    second: VAMPIRO_FLOTAR_34
+  - first:
+      213: -267759688104773079
+    second: VAMPIRO_FLOTAR_35
+  - first:
+      213: 9122877501700366665
+    second: VAMPIRO_FLOTAR_36
+  - first:
+      213: 4659654277910283453
+    second: VAMPIRO_FLOTAR_37
+  - first:
+      213: 6572969370540510479
+    second: VAMPIRO_FLOTAR_38
+  - first:
+      213: 1416196654276475334
+    second: VAMPIRO_FLOTAR_39
+  - first:
+      213: 6968262534828582511
+    second: VAMPIRO_FLOTAR_40
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: 47
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: VAMPIRO_FLOTAR_0
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 1931
+        width: 238
+        height: 823
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f107d765c806a920800000000000000
+      internalID: 3001095845632737784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VAMPIRO_FLOTAR_1
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 1931
+        width: 238
+        height: 823
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9beeda01b36e632a0800000000000000
+      internalID: -6757961049465557319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VAMPIRO_FLOTAR_2
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 1929
+        width: 238
+        height: 823
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 906deebd9a4aa3550800000000000000
+      internalID: 6141402091319383561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VAMPIRO_FLOTAR_3
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 1931
+        width: 238
+        height: 823
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1ae601990e6f2e00800000000000000
+      internalID: 1022156627803302431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VAMPIRO_FLOTAR_4
+      rect:
+        serializedVersion: 2
+        x: 1039
+        y: 1921
+        width: 238
+        height: 823
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db135cf36442da3d0800000000000000
+      internalID: -3193856676599615043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VAMPIRO_FLOTAR_5
+      rect:
+        serializedVersion: 2
+        x: 1316
+        y: 1914
+        width: 238
+        height: 823
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9ec5cabefc36ba50800000000000000
+      internalID: 6536478973927739038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VAMPIRO_FLOTAR_6
+      rect:
+        serializedVersion: 2
+        x: 1562
+        y: 1914
+        width: 238
+        height: 823
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f25c5f306c3ec750800000000000000
+      internalID: 6327060910579667697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VAMPIRO_FLOTAR_7
+      rect:
+        serializedVersion: 2
+        x: 1824
+        y: 1919
+        width: 238
+        height: 823
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f39aa5f98d73b2ba0800000000000000
+      internalID: -6112730665699333825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VAMPIRO_FLOTAR_8
+      rect:
+        serializedVersion: 2
+        x: 2096
+        y: 1925
+        width: 238
+        height: 823
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b44fea57481e891f0800000000000000
+      internalID: -1037831755082566581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VAMPIRO_FLOTAR_9
+      rect:
+        serializedVersion: 2
+        x: 2355
+        y: 1925
+        width: 238
+        height: 823
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81ce15b8074f8df80800000000000000
+      internalID: -8081440767105438696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VAMPIRO_FLOTAR_10
+      rect:
+        serializedVersion: 2
+        x: 2626
+        y: 1928
+        width: 238
+        height: 823
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d88344f3b49f6d260800000000000000
+      internalID: 7122153962312317069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VAMPIRO_FLOTAR_11
+      rect:
+        serializedVersion: 2
+        x: 2882
+        y: 1928
+        width: 238
+        height: 823
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46589b57137ca2dc0800000000000000
+      internalID: -3662896331670059676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VAMPIRO_FLOTAR_12
+      rect:
+        serializedVersion: 2
+        x: 3153
+        y: 1931
+        width: 238
+        height: 823
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7de975a8d7838f0d0800000000000000
+      internalID: -3388896607753232681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VAMPIRO_FLOTAR_13
+      rect:
+        serializedVersion: 2
+        x: 3419
+        y: 1933
+        width: 238
+        height: 823
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c29b3e94c52335ce0800000000000000
+      internalID: -1417734085733533396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VAMPIRO_FLOTAR_14
+      rect:
+        serializedVersion: 2
+        x: 3695
+        y: 1933
+        width: 238
+        height: 823
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 870a9f5445fb6c7f0800000000000000
+      internalID: -592575932280496008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VAMPIRO_FLOTAR_15
+      rect:
+        serializedVersion: 2
+        x: 3957
+        y: 1933
+        width: 238
+        height: 823
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09f25682c67e6e6d0800000000000000
+      internalID: -2961425253229318256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VAMPIRO_FLOTAR_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1072
+        width: 238
+        height: 823
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecaadf0fd123fb930800000000000000
+      internalID: 4161099684892224206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VAMPIRO_FLOTAR_17
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 1068
+        width: 238
+        height: 823
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4812fa1c506bc31d0800000000000000
+      internalID: -3369618285339401852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VAMPIRO_FLOTAR_18
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 1064
+        width: 238
+        height: 823
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54a89f807b0c5c860800000000000000
+      internalID: 7549652242718624325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VAMPIRO_FLOTAR_19
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 1053
+        width: 238
+        height: 823
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 474315ca75053daa0800000000000000
+      internalID: -6137473529692474252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VAMPIRO_FLOTAR_20
+      rect:
+        serializedVersion: 2
+        x: 1060
+        y: 1046
+        width: 238
+        height: 823
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b0334c353ee4c9c0800000000000000
+      internalID: -3907736664239034191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VAMPIRO_FLOTAR_21
+      rect:
+        serializedVersion: 2
+        x: 1317
+        y: 1042
+        width: 238
+        height: 823
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f30b31354e7211d0800000000000000
+      internalID: -3381501534558026767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VAMPIRO_FLOTAR_22
+      rect:
+        serializedVersion: 2
+        x: 1592
+        y: 1035
+        width: 238
+        height: 823
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e18ef48af2e3faed0800000000000000
+      internalID: -2400631701956990946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VAMPIRO_FLOTAR_23
+      rect:
+        serializedVersion: 2
+        x: 1874
+        y: 1031
+        width: 238
+        height: 823
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c7ef52e894842f00800000000000000
+      internalID: 1091142801898334148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VAMPIRO_FLOTAR_24
+      rect:
+        serializedVersion: 2
+        x: 2171
+        y: 1027
+        width: 238
+        height: 823
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e06f78615dff64f30800000000000000
+      internalID: 4559612963430331918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VAMPIRO_FLOTAR_25
+      rect:
+        serializedVersion: 2
+        x: 2424
+        y: 1020
+        width: 238
+        height: 823
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d43251c9e480cca0800000000000000
+      internalID: -5998648564151864106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VAMPIRO_FLOTAR_26
+      rect:
+        serializedVersion: 2
+        x: 2717
+        y: 1027
+        width: 238
+        height: 823
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d737471d82ece7b40800000000000000
+      internalID: 5440012074618221437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VAMPIRO_FLOTAR_27
+      rect:
+        serializedVersion: 2
+        x: 2996
+        y: 1016
+        width: 238
+        height: 823
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be96f1150afee6860800000000000000
+      internalID: 7525215499217496555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VAMPIRO_FLOTAR_28
+      rect:
+        serializedVersion: 2
+        x: 3267
+        y: 1020
+        width: 238
+        height: 823
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49beb14bdb322dce0800000000000000
+      internalID: -1382002837971801196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VAMPIRO_FLOTAR_29
+      rect:
+        serializedVersion: 2
+        x: 3546
+        y: 1016
+        width: 238
+        height: 823
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e151cc2d88791810800000000000000
+      internalID: 1736551679064625634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VAMPIRO_FLOTAR_30
+      rect:
+        serializedVersion: 2
+        x: 3817
+        y: 1023
+        width: 238
+        height: 823
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 091fe0fee2301e400800000000000000
+      internalID: 351565746025722256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VAMPIRO_FLOTAR_31
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 110
+        width: 238
+        height: 823
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f33b4cafa51b80800800000000000000
+      internalID: 578907556429476671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VAMPIRO_FLOTAR_32
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 110
+        width: 238
+        height: 823
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41e8ad079a5844880800000000000000
+      internalID: -8627624023345689068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VAMPIRO_FLOTAR_33
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 111
+        width: 238
+        height: 823
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f151595bcd72b420800000000000000
+      internalID: 2644314243550237172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VAMPIRO_FLOTAR_34
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 122
+        width: 238
+        height: 823
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d5a513e4e1709800800000000000000
+      internalID: 617118376826086872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VAMPIRO_FLOTAR_35
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 122
+        width: 238
+        height: 823
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92a78597bf9b84cf0800000000000000
+      internalID: -267759688104773079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VAMPIRO_FLOTAR_36
+      rect:
+        serializedVersion: 2
+        x: 1363
+        y: 122
+        width: 238
+        height: 823
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 941e042b0c8fa9e70800000000000000
+      internalID: 9122877501700366665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VAMPIRO_FLOTAR_37
+      rect:
+        serializedVersion: 2
+        x: 1613
+        y: 122
+        width: 238
+        height: 823
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db4c8fab0ea6aa040800000000000000
+      internalID: 4659654277910283453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VAMPIRO_FLOTAR_38
+      rect:
+        serializedVersion: 2
+        x: 1895
+        y: 122
+        width: 238
+        height: 823
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0d079241d0e73b50800000000000000
+      internalID: 6572969370540510479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VAMPIRO_FLOTAR_39
+      rect:
+        serializedVersion: 2
+        x: 2177
+        y: 126
+        width: 238
+        height: 823
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c9fe3e8a5757a310800000000000000
+      internalID: 1416196654276475334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VAMPIRO_FLOTAR_40
+      rect:
+        serializedVersion: 2
+        x: 2481
+        y: 122
+        width: 238
+        height: 823
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f66ee122bdd34b060800000000000000
+      internalID: 6968262534828582511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: f66ac644a8b9d004b9045d1d1233dc22
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

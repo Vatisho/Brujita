@@ -1,0 +1,777 @@
+fileFormatVersion: 2
+guid: 5e90dbd756fadfc42834d0edab2f2ed4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 685892455779118895
+    second: MORIR_0
+  - first:
+      213: 4364910885315852420
+    second: MORIR_1
+  - first:
+      213: 1708788469537202876
+    second: MORIR_2
+  - first:
+      213: -428236833413050784
+    second: MORIR_3
+  - first:
+      213: 8870975949284399560
+    second: MORIR_4
+  - first:
+      213: 3571340438994730963
+    second: MORIR_10
+  - first:
+      213: -9152543482059145489
+    second: MORIR_11
+  - first:
+      213: -7359158960957628003
+    second: MORIR_12
+  - first:
+      213: -8700687470304154950
+    second: MORIR_13
+  - first:
+      213: -3642280627983157034
+    second: MORIR_14
+  - first:
+      213: 6318685839407920234
+    second: MORIR_15
+  - first:
+      213: 1413660611444245540
+    second: MORIR_16
+  - first:
+      213: 3494296841073460539
+    second: MORIR_17
+  - first:
+      213: 7959174469438088119
+    second: MORIR_18
+  - first:
+      213: 959040337027252941
+    second: MORIR_19
+  - first:
+      213: -9083386306246659018
+    second: MORIR_20
+  - first:
+      213: 4697893002074015194
+    second: MORIR_21
+  - first:
+      213: 429318007810900297
+    second: MORIR_22
+  - first:
+      213: 5350863645649752092
+    second: MORIR_23
+  - first:
+      213: 4712973063144662036
+    second: MORIR_24
+  - first:
+      213: 1725640678349243809
+    second: MORIR_25
+  - first:
+      213: -757330863235652107
+    second: MORIR_26
+  - first:
+      213: 4319680080583406654
+    second: MORIR_27
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: 47
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: MORIR_0
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 1336
+        width: 116
+        height: 284
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2fa5d4fd87c48900800000000000000
+      internalID: 685892455779118895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MORIR_1
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 1336
+        width: 116
+        height: 284
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 488bc7be257439c30800000000000000
+      internalID: 4364910885315852420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MORIR_2
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 1336
+        width: 121
+        height: 284
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb26c0b3f06d6b710800000000000000
+      internalID: 1708788469537202876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MORIR_3
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 1336
+        width: 121
+        height: 284
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06e4da07ed89e0af0800000000000000
+      internalID: -428236833413050784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MORIR_4
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 1336
+        width: 139
+        height: 284
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c9512c10a90c1b70800000000000000
+      internalID: 8870975949284399560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MORIR_5
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 1011
+        width: 139
+        height: 284
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 520c97806da54ef40800000000000000
+      internalID: 5756826098998034469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MORIR_6
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 1010
+        width: 139
+        height: 284
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91b7430f4052eee50800000000000000
+      internalID: 6840445587162430233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MORIR_7
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 1009
+        width: 139
+        height: 284
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f6ddf83c7ebb6b70800000000000000
+      internalID: 8893411329914558192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MORIR_8
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 1010
+        width: 173
+        height: 284
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b08ce71574d00d340800000000000000
+      internalID: 4886420195658090507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MORIR_9
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 1010
+        width: 173
+        height: 284
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 542c99ab99170dc10800000000000000
+      internalID: 2076284333292372549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MORIR_10
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 688
+        width: 173
+        height: 284
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dfb44e1533ff8130800000000000000
+      internalID: 3571340438994730963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MORIR_11
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 686
+        width: 173
+        height: 284
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fee3c800232abf080800000000000000
+      internalID: -9152543482059145489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MORIR_12
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 685
+        width: 173
+        height: 284
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d91ec7e5ae30fd990800000000000000
+      internalID: -7359158960957628003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MORIR_13
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 685
+        width: 173
+        height: 284
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aba24de08d2f04780800000000000000
+      internalID: -8700687470304154950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MORIR_14
+      rect:
+        serializedVersion: 2
+        x: 778
+        y: 686
+        width: 173
+        height: 284
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d8f6c40115047dc0800000000000000
+      internalID: -3642280627983157034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MORIR_15
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 343
+        width: 173
+        height: 284
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6433390b4b70b750800000000000000
+      internalID: 6318685839407920234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MORIR_16
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 341
+        width: 173
+        height: 284
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 424881216d45e9310800000000000000
+      internalID: 1413660611444245540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MORIR_17
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 339
+        width: 173
+        height: 284
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3504ff967c3e7030800000000000000
+      internalID: 3494296841073460539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MORIR_18
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 340
+        width: 173
+        height: 284
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b3273ca20ba47e60800000000000000
+      internalID: 7959174469438088119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MORIR_19
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 343
+        width: 173
+        height: 284
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc2c7c5fa123f4d00800000000000000
+      internalID: 959040337027252941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MORIR_20
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 343
+        width: 173
+        height: 284
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6343582c74451f180800000000000000
+      internalID: -9083386306246659018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MORIR_21
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 343
+        width: 173
+        height: 284
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad54a6d7bc4423140800000000000000
+      internalID: 4697893002074015194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MORIR_22
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 343
+        width: 173
+        height: 284
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9414f37147e35f500800000000000000
+      internalID: 429318007810900297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MORIR_23
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 0
+        width: 173
+        height: 284
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c105188b226124a40800000000000000
+      internalID: 5350863645649752092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MORIR_24
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 0
+        width: 173
+        height: 284
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 414e8b0d708d76140800000000000000
+      internalID: 4712973063144662036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MORIR_25
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 0
+        width: 173
+        height: 284
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a588fadd05b2f710800000000000000
+      internalID: 1725640678349243809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MORIR_26
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 0
+        width: 173
+        height: 284
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f52667a79b6d75f0800000000000000
+      internalID: -757330863235652107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MORIR_27
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 0
+        width: 173
+        height: 284
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e34318a852692fb30800000000000000
+      internalID: 4319680080583406654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 6a7c85637f428ac45ae09f99648f95b4
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
