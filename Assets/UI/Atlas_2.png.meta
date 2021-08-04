@@ -101,7 +101,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 0
+    filterMode: 1
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -111,14 +111,14 @@ TextureImporter:
   lightmap: 0
   compressionQuality: 50
   spriteMode: 2
-  spriteExtrude: 1
-  spriteMeshType: 1
+  spriteExtrude: 0
+  spriteMeshType: 0
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 300
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
-  alphaUsage: 1
+  alphaUsage: 0
   alphaIsTransparency: 1
   spriteTessellationDetail: -1
   textureType: 8
@@ -159,7 +159,7 @@ TextureImporter:
   - serializedVersion: 3
     buildTarget: Android
     maxTextureSize: 1024
-    resizeAlgorithm: 0
+    resizeAlgorithm: 1
     textureFormat: 47
     textureCompression: 1
     compressionQuality: 50
@@ -175,10 +175,10 @@ TextureImporter:
       name: Atlas_2_0
       rect:
         serializedVersion: 2
-        x: 4
-        y: 1366
-        width: 269
-        height: 682
+        x: 45
+        y: 1646
+        width: 242
+        height: 402
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -196,10 +196,10 @@ TextureImporter:
       name: Atlas_2_1
       rect:
         serializedVersion: 2
-        x: 265
-        y: 1366
-        width: 269
-        height: 682
+        x: 304
+        y: 1646
+        width: 242
+        height: 402
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -217,10 +217,10 @@ TextureImporter:
       name: Atlas_2_2
       rect:
         serializedVersion: 2
-        x: 551
-        y: 1366
-        width: 269
-        height: 682
+        x: 594
+        y: 1646
+        width: 242
+        height: 402
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -238,10 +238,10 @@ TextureImporter:
       name: Atlas_2_3
       rect:
         serializedVersion: 2
-        x: 841
-        y: 1366
-        width: 269
-        height: 682
+        x: 885
+        y: 1646
+        width: 242
+        height: 402
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -259,10 +259,10 @@ TextureImporter:
       name: Atlas_2_4
       rect:
         serializedVersion: 2
-        x: 1128
-        y: 1366
-        width: 269
-        height: 682
+        x: 1176
+        y: 1646
+        width: 242
+        height: 402
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -280,10 +280,10 @@ TextureImporter:
       name: Atlas_2_5
       rect:
         serializedVersion: 2
-        x: 1419
-        y: 1366
-        width: 269
-        height: 682
+        x: 1463
+        y: 1646
+        width: 242
+        height: 402
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -301,10 +301,10 @@ TextureImporter:
       name: Atlas_2_6
       rect:
         serializedVersion: 2
-        x: 1746
-        y: 1366
-        width: 269
-        height: 682
+        x: 1785
+        y: 1646
+        width: 242
+        height: 402
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -322,10 +322,10 @@ TextureImporter:
       name: Atlas_2_7
       rect:
         serializedVersion: 2
-        x: 5
-        y: 682
-        width: 269
-        height: 682
+        x: 49
+        y: 962
+        width: 242
+        height: 402
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -343,10 +343,10 @@ TextureImporter:
       name: Atlas_2_8
       rect:
         serializedVersion: 2
-        x: 298
-        y: 681
-        width: 269
-        height: 682
+        x: 341
+        y: 961
+        width: 242
+        height: 402
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -364,10 +364,10 @@ TextureImporter:
       name: Atlas_2_9
       rect:
         serializedVersion: 2
-        x: 590
-        y: 682
-        width: 269
-        height: 682
+        x: 632
+        y: 962
+        width: 242
+        height: 402
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -385,10 +385,10 @@ TextureImporter:
       name: Atlas_2_10
       rect:
         serializedVersion: 2
-        x: 880
-        y: 683
-        width: 269
-        height: 682
+        x: 924
+        y: 961
+        width: 242
+        height: 402
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -406,10 +406,10 @@ TextureImporter:
       name: Atlas_2_11
       rect:
         serializedVersion: 2
-        x: 1173
-        y: 682
-        width: 269
-        height: 682
+        x: 1215
+        y: 961
+        width: 242
+        height: 402
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -427,10 +427,10 @@ TextureImporter:
       name: Atlas_2_12
       rect:
         serializedVersion: 2
-        x: 1465
-        y: 682
-        width: 269
-        height: 682
+        x: 1507
+        y: 962
+        width: 242
+        height: 402
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -448,10 +448,10 @@ TextureImporter:
       name: Atlas_2_13
       rect:
         serializedVersion: 2
-        x: 1758
-        y: 681
-        width: 269
-        height: 682
+        x: 1798
+        y: 962
+        width: 242
+        height: 402
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -469,10 +469,10 @@ TextureImporter:
       name: Atlas_2_14
       rect:
         serializedVersion: 2
-        x: 5
-        y: 0
-        width: 269
-        height: 682
+        x: 46
+        y: 279
+        width: 242
+        height: 402
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -490,10 +490,10 @@ TextureImporter:
       name: Atlas_2_15
       rect:
         serializedVersion: 2
-        x: 285
-        y: 0
-        width: 269
-        height: 682
+        x: 326
+        y: 278
+        width: 242
+        height: 402
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -511,10 +511,10 @@ TextureImporter:
       name: Atlas_2_16
       rect:
         serializedVersion: 2
-        x: 565
-        y: 0
-        width: 269
-        height: 682
+        x: 606
+        y: 278
+        width: 242
+        height: 402
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -532,10 +532,10 @@ TextureImporter:
       name: Atlas_2_17
       rect:
         serializedVersion: 2
-        x: 813
-        y: 0
-        width: 261
-        height: 682
+        x: 851
+        y: 278
+        width: 242
+        height: 402
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -553,10 +553,10 @@ TextureImporter:
       name: Atlas_2_18
       rect:
         serializedVersion: 2
-        x: 1059
-        y: 0
-        width: 261
-        height: 682
+        x: 1097
+        y: 279
+        width: 242
+        height: 402
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -574,10 +574,10 @@ TextureImporter:
       name: Atlas_2_19
       rect:
         serializedVersion: 2
-        x: 1304
-        y: 0
-        width: 261
-        height: 682
+        x: 1344
+        y: 278
+        width: 242
+        height: 402
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -595,10 +595,10 @@ TextureImporter:
       name: Atlas_2_20
       rect:
         serializedVersion: 2
-        x: 1545
-        y: 0
-        width: 261
-        height: 682
+        x: 1586
+        y: 283
+        width: 242
+        height: 402
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -616,10 +616,10 @@ TextureImporter:
       name: Atlas_2_21
       rect:
         serializedVersion: 2
-        x: 1793
-        y: 0
-        width: 245
-        height: 682
+        x: 1856
+        y: 282
+        width: 192
+        height: 402
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}

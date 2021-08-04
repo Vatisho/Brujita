@@ -1,0 +1,864 @@
+fileFormatVersion: 2
+guid: 35233a8c85fa6ec4b9b6c8fa3fda97b7
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2577217902824510152
+    second: Ataque
+  - first:
+      213: 1962337559434691255
+    second: VAMPIRO_ATAQUE_0
+  - first:
+      213: 1441250730312345112
+    second: VAMPIRO_ATAQUE_1
+  - first:
+      213: 8243222002853034096
+    second: VAMPIRO_ATAQUE_2
+  - first:
+      213: 2749611226313119981
+    second: VAMPIRO_ATAQUE_4
+  - first:
+      213: -1090998416603835926
+    second: VAMPIRO_ATAQUE_5
+  - first:
+      213: -4162907333608253473
+    second: VAMPIRO_ATAQUE_6
+  - first:
+      213: 789004277883585712
+    second: VAMPIRO_ATAQUE_7
+  - first:
+      213: -6564550472571647306
+    second: VAMPIRO_ATAQUE_8
+  - first:
+      213: -645744193216550147
+    second: VAMPIRO_ATAQUE_9
+  - first:
+      213: 4887192050451576760
+    second: VAMPIRO_ATAQUE_10
+  - first:
+      213: -5818650869244739241
+    second: VAMPIRO_ATAQUE_11
+  - first:
+      213: 5366375335758958411
+    second: VAMPIRO_ATAQUE_12
+  - first:
+      213: 7260313564773268761
+    second: VAMPIRO_ATAQUE_13
+  - first:
+      213: 4088379470526766362
+    second: VAMPIRO_ATAQUE_14
+  - first:
+      213: -1103417738074720470
+    second: VAMPIRO_ATAQUE_15
+  - first:
+      213: 7904244372713516323
+    second: VAMPIRO_ATAQUE_16
+  - first:
+      213: 6352496437023066311
+    second: VAMPIRO_ATAQUE_17
+  - first:
+      213: -5020073351303901992
+    second: VAMPIRO_ATAQUE_18
+  - first:
+      213: -2724613640975548217
+    second: VAMPIRO_ATAQUE_19
+  - first:
+      213: -2557824012570259174
+    second: VAMPIRO_ATAQUE_20
+  - first:
+      213: -7155336488160726365
+    second: VAMPIRO_ATAQUE_21
+  - first:
+      213: 3139134551055558259
+    second: VAMPIRO_ATAQUE_22
+  - first:
+      213: 6247103077980472364
+    second: VAMPIRO_ATAQUE_23
+  - first:
+      213: -6741745894081793475
+    second: VAMPIRO_ATAQUE_24
+  - first:
+      213: -2858290064462393700
+    second: VAMPIRO_ATAQUE_25
+  - first:
+      213: 2891791372293799137
+    second: VAMPIRO_ATAQUE_26
+  - first:
+      213: 7922800120475839351
+    second: VAMPIRO_ATAQUE_27
+  - first:
+      213: 6367571068299566698
+    second: VAMPIRO_ATAQUE_28
+  - first:
+      213: -1995088375481968827
+    second: VAMPIRO_ATAQUE_29
+  - first:
+      213: 6142882223965903768
+    second: VAMPIRO_ATAQUE_30
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: 47
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Ataque
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 986
+        width: 138
+        height: 262
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c2d1a6270e14c320800000000000000
+      internalID: 2577217902824510152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VAMPIRO_ATAQUE_0
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 986
+        width: 138
+        height: 262
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b203870d9f9b3b10800000000000000
+      internalID: 1962337559434691255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VAMPIRO_ATAQUE_1
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 984
+        width: 138
+        height: 262
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8162a8437e9500410800000000000000
+      internalID: 1441250730312345112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VAMPIRO_ATAQUE_2
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 981
+        width: 138
+        height: 262
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0783db4bcbec56270800000000000000
+      internalID: 8243222002853034096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VAMPIRO_ATAQUE_4
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 979
+        width: 143
+        height: 262
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de8d1de97d4982620800000000000000
+      internalID: 2749611226313119981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VAMPIRO_ATAQUE_5
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 977
+        width: 148
+        height: 262
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae190df68befbd0f0800000000000000
+      internalID: -1090998416603835926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VAMPIRO_ATAQUE_6
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 976
+        width: 150
+        height: 262
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd7596b06d16a36c0800000000000000
+      internalID: -4162907333608253473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VAMPIRO_ATAQUE_7
+      rect:
+        serializedVersion: 2
+        x: 990
+        y: 981
+        width: 153
+        height: 262
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b4c38dd53b13fa00800000000000000
+      internalID: 789004277883585712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VAMPIRO_ATAQUE_8
+      rect:
+        serializedVersion: 2
+        x: 1185
+        y: 985
+        width: 143
+        height: 262
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ba8e3c202806e4a0800000000000000
+      internalID: -6564550472571647306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VAMPIRO_ATAQUE_9
+      rect:
+        serializedVersion: 2
+        x: 1332
+        y: 990
+        width: 143
+        height: 262
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfa6e8bd31bd907f0800000000000000
+      internalID: -645744193216550147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VAMPIRO_ATAQUE_10
+      rect:
+        serializedVersion: 2
+        x: 1496
+        y: 993
+        width: 143
+        height: 262
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b77744c64bc2d340800000000000000
+      internalID: 4887192050451576760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VAMPIRO_ATAQUE_11
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 647
+        width: 118
+        height: 262
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75146aaecdfff3fa0800000000000000
+      internalID: -5818650869244739241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VAMPIRO_ATAQUE_12
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 648
+        width: 118
+        height: 262
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4f84538fe1397a40800000000000000
+      internalID: 5366375335758958411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VAMPIRO_ATAQUE_13
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 647
+        width: 126
+        height: 262
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91db24a68b0d1c460800000000000000
+      internalID: 7260313564773268761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VAMPIRO_ATAQUE_14
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 640
+        width: 126
+        height: 262
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1d5fbf9777dcb830800000000000000
+      internalID: 4088379470526766362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VAMPIRO_ATAQUE_15
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 639
+        width: 135
+        height: 262
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a27f033d96fdfa0f0800000000000000
+      internalID: -1103417738074720470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VAMPIRO_ATAQUE_16
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 635
+        width: 135
+        height: 262
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32d2875e06481bd60800000000000000
+      internalID: 7904244372713516323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VAMPIRO_ATAQUE_17
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 634
+        width: 135
+        height: 262
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c8c1bd3ad9982850800000000000000
+      internalID: 6352496437023066311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VAMPIRO_ATAQUE_18
+      rect:
+        serializedVersion: 2
+        x: 1123
+        y: 632
+        width: 146
+        height: 262
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dc402d62ed155ab0800000000000000
+      internalID: -5020073351303901992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VAMPIRO_ATAQUE_19
+      rect:
+        serializedVersion: 2
+        x: 1313
+        y: 634
+        width: 146
+        height: 262
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c00873445a303ad0800000000000000
+      internalID: -2724613640975548217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VAMPIRO_ATAQUE_20
+      rect:
+        serializedVersion: 2
+        x: 1493
+        y: 634
+        width: 146
+        height: 262
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1119cccc98c08cd0800000000000000
+      internalID: -2557824012570259174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VAMPIRO_ATAQUE_21
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 320
+        width: 158
+        height: 262
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a2f9c6ef5323bc90800000000000000
+      internalID: -7155336488160726365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VAMPIRO_ATAQUE_22
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 321
+        width: 158
+        height: 262
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37662d90e32709b20800000000000000
+      internalID: 3139134551055558259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VAMPIRO_ATAQUE_23
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 321
+        width: 158
+        height: 262
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c24864e962b22b650800000000000000
+      internalID: 6247103077980472364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VAMPIRO_ATAQUE_24
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 323
+        width: 145
+        height: 262
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d327e4124d18072a0800000000000000
+      internalID: -6741745894081793475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VAMPIRO_ATAQUE_25
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 323
+        width: 156
+        height: 262
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9ec0ba84505558d0800000000000000
+      internalID: -2858290064462393700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VAMPIRO_ATAQUE_26
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 322
+        width: 146
+        height: 262
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ec7c168ee4b12820800000000000000
+      internalID: 2891791372293799137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VAMPIRO_ATAQUE_27
+      rect:
+        serializedVersion: 2
+        x: 1077
+        y: 323
+        width: 150
+        height: 262
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77b62679bb073fd60800000000000000
+      internalID: 7922800120475839351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VAMPIRO_ATAQUE_28
+      rect:
+        serializedVersion: 2
+        x: 1285
+        y: 322
+        width: 150
+        height: 262
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6edc0856282e5850800000000000000
+      internalID: 6367571068299566698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VAMPIRO_ATAQUE_29
+      rect:
+        serializedVersion: 2
+        x: 1488
+        y: 323
+        width: 152
+        height: 262
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 547d2e361b50054e0800000000000000
+      internalID: -1995088375481968827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VAMPIRO_ATAQUE_30
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 15
+        width: 152
+        height: 262
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89b9c8816d6ef3550800000000000000
+      internalID: 6142882223965903768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

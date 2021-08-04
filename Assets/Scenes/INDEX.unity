@@ -1412,14 +1412,14 @@ RectTransform:
   m_GameObject: {fileID: 1345284473}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 5.6322017, y: 5.6322017, z: 5.6322017}
+  m_LocalScale: {x: 2.7493088, y: 2.6212022, z: 2.557021}
   m_Children: []
   m_Father: {fileID: 845055893}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -378, y: -320}
+  m_AnchoredPosition: {x: -328, y: -36}
   m_SizeDelta: {x: 142.8102, y: 207.1441}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1345284475
@@ -1719,7 +1719,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 114166732949082290, guid: dc18de6bec49a79408860f55307afa04, type: 3}
       propertyPath: Size
-      value: 0.5
+      value: 0.2
       objectReference: {fileID: 0}
     - target: {fileID: 114166732949082290, guid: dc18de6bec49a79408860f55307afa04, type: 3}
       propertyPath: Speed
@@ -1727,19 +1727,31 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 114166732949082290, guid: dc18de6bec49a79408860f55307afa04, type: 3}
       propertyPath: Gravity
-      value: -1
+      value: -0.5
       objectReference: {fileID: 0}
     - target: {fileID: 114166732949082290, guid: dc18de6bec49a79408860f55307afa04, type: 3}
-      propertyPath: Lifetime
-      value: 5
-      objectReference: {fileID: 0}
-    - target: {fileID: 114166732949082290, guid: dc18de6bec49a79408860f55307afa04, type: 3}
-      propertyPath: EmissionsPerSecond
+      propertyPath: Duration
       value: 10
       objectReference: {fileID: 0}
     - target: {fileID: 114166732949082290, guid: dc18de6bec49a79408860f55307afa04, type: 3}
+      propertyPath: Lifetime
+      value: 10
+      objectReference: {fileID: 0}
+    - target: {fileID: 114166732949082290, guid: dc18de6bec49a79408860f55307afa04, type: 3}
+      propertyPath: EmissionsPerSecond
+      value: 5
+      objectReference: {fileID: 0}
+    - target: {fileID: 114166732949082290, guid: dc18de6bec49a79408860f55307afa04, type: 3}
       propertyPath: ColorOverLifetime.atime0
-      value: 51272
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 114166732949082290, guid: dc18de6bec49a79408860f55307afa04, type: 3}
+      propertyPath: ColorOverLifetime.atime1
+      value: 41827
+      objectReference: {fileID: 0}
+    - target: {fileID: 114166732949082290, guid: dc18de6bec49a79408860f55307afa04, type: 3}
+      propertyPath: ColorOverLifetime.atime2
+      value: 65535
       objectReference: {fileID: 0}
     - target: {fileID: 114166732949082290, guid: dc18de6bec49a79408860f55307afa04, type: 3}
       propertyPath: ColorOverLifetime.ctime0
@@ -1747,31 +1759,43 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 114166732949082290, guid: dc18de6bec49a79408860f55307afa04, type: 3}
       propertyPath: ColorOverLifetime.ctime1
-      value: 20046
+      value: 25829
+      objectReference: {fileID: 0}
+    - target: {fileID: 114166732949082290, guid: dc18de6bec49a79408860f55307afa04, type: 3}
+      propertyPath: ColorOverLifetime.key0.a
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 114166732949082290, guid: dc18de6bec49a79408860f55307afa04, type: 3}
       propertyPath: ColorOverLifetime.key0.b
-      value: 0.38816386
+      value: 0.37254903
       objectReference: {fileID: 0}
     - target: {fileID: 114166732949082290, guid: dc18de6bec49a79408860f55307afa04, type: 3}
       propertyPath: ColorOverLifetime.key0.g
-      value: 0.19344072
+      value: 0.039215688
       objectReference: {fileID: 0}
     - target: {fileID: 114166732949082290, guid: dc18de6bec49a79408860f55307afa04, type: 3}
       propertyPath: ColorOverLifetime.key0.r
-      value: 0.5943396
+      value: 0.454902
+      objectReference: {fileID: 0}
+    - target: {fileID: 114166732949082290, guid: dc18de6bec49a79408860f55307afa04, type: 3}
+      propertyPath: ColorOverLifetime.key1.a
+      value: 0.92058825
       objectReference: {fileID: 0}
     - target: {fileID: 114166732949082290, guid: dc18de6bec49a79408860f55307afa04, type: 3}
       propertyPath: ColorOverLifetime.key1.b
-      value: 0.5283019
+      value: 0.40784317
       objectReference: {fileID: 0}
     - target: {fileID: 114166732949082290, guid: dc18de6bec49a79408860f55307afa04, type: 3}
       propertyPath: ColorOverLifetime.key1.g
-      value: 0.072267726
+      value: 0.07058824
       objectReference: {fileID: 0}
     - target: {fileID: 114166732949082290, guid: dc18de6bec49a79408860f55307afa04, type: 3}
       propertyPath: ColorOverLifetime.key1.r
-      value: 0.44418764
+      value: 0.43529415
+      objectReference: {fileID: 0}
+    - target: {fileID: 114166732949082290, guid: dc18de6bec49a79408860f55307afa04, type: 3}
+      propertyPath: ColorOverLifetime.m_NumAlphaKeys
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 224429802145071514, guid: dc18de6bec49a79408860f55307afa04, type: 3}
       propertyPath: m_Pivot.x
@@ -1839,11 +1863,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 224429802145071514, guid: dc18de6bec49a79408860f55307afa04, type: 3}
       propertyPath: m_AnchoredPosition.x
-      value: -69
+      value: -0
       objectReference: {fileID: 0}
     - target: {fileID: 224429802145071514, guid: dc18de6bec49a79408860f55307afa04, type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: 371
+      value: 357
       objectReference: {fileID: 0}
     - target: {fileID: 224429802145071514, guid: dc18de6bec49a79408860f55307afa04, type: 3}
       propertyPath: m_LocalEulerAnglesHint.x
@@ -2068,27 +2092,39 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 114166732949082290, guid: dc18de6bec49a79408860f55307afa04, type: 3}
       propertyPath: Size
-      value: 0.5
+      value: 0.2
       objectReference: {fileID: 0}
     - target: {fileID: 114166732949082290, guid: dc18de6bec49a79408860f55307afa04, type: 3}
       propertyPath: Speed
-      value: 2
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 114166732949082290, guid: dc18de6bec49a79408860f55307afa04, type: 3}
       propertyPath: Gravity
-      value: -1
+      value: -0.5
       objectReference: {fileID: 0}
     - target: {fileID: 114166732949082290, guid: dc18de6bec49a79408860f55307afa04, type: 3}
-      propertyPath: Lifetime
-      value: 5
-      objectReference: {fileID: 0}
-    - target: {fileID: 114166732949082290, guid: dc18de6bec49a79408860f55307afa04, type: 3}
-      propertyPath: EmissionsPerSecond
+      propertyPath: Duration
       value: 10
       objectReference: {fileID: 0}
     - target: {fileID: 114166732949082290, guid: dc18de6bec49a79408860f55307afa04, type: 3}
+      propertyPath: Lifetime
+      value: 10
+      objectReference: {fileID: 0}
+    - target: {fileID: 114166732949082290, guid: dc18de6bec49a79408860f55307afa04, type: 3}
+      propertyPath: EmissionsPerSecond
+      value: 5
+      objectReference: {fileID: 0}
+    - target: {fileID: 114166732949082290, guid: dc18de6bec49a79408860f55307afa04, type: 3}
       propertyPath: ColorOverLifetime.atime0
-      value: 51272
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 114166732949082290, guid: dc18de6bec49a79408860f55307afa04, type: 3}
+      propertyPath: ColorOverLifetime.atime1
+      value: 41827
+      objectReference: {fileID: 0}
+    - target: {fileID: 114166732949082290, guid: dc18de6bec49a79408860f55307afa04, type: 3}
+      propertyPath: ColorOverLifetime.atime2
+      value: 65535
       objectReference: {fileID: 0}
     - target: {fileID: 114166732949082290, guid: dc18de6bec49a79408860f55307afa04, type: 3}
       propertyPath: ColorOverLifetime.ctime0
@@ -2096,31 +2132,43 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 114166732949082290, guid: dc18de6bec49a79408860f55307afa04, type: 3}
       propertyPath: ColorOverLifetime.ctime1
-      value: 20046
+      value: 25829
+      objectReference: {fileID: 0}
+    - target: {fileID: 114166732949082290, guid: dc18de6bec49a79408860f55307afa04, type: 3}
+      propertyPath: ColorOverLifetime.key0.a
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 114166732949082290, guid: dc18de6bec49a79408860f55307afa04, type: 3}
       propertyPath: ColorOverLifetime.key0.b
-      value: 0.38816386
+      value: 0.37254903
       objectReference: {fileID: 0}
     - target: {fileID: 114166732949082290, guid: dc18de6bec49a79408860f55307afa04, type: 3}
       propertyPath: ColorOverLifetime.key0.g
-      value: 0.19344072
+      value: 0.039215688
       objectReference: {fileID: 0}
     - target: {fileID: 114166732949082290, guid: dc18de6bec49a79408860f55307afa04, type: 3}
       propertyPath: ColorOverLifetime.key0.r
-      value: 0.5943396
+      value: 0.454902
+      objectReference: {fileID: 0}
+    - target: {fileID: 114166732949082290, guid: dc18de6bec49a79408860f55307afa04, type: 3}
+      propertyPath: ColorOverLifetime.key1.a
+      value: 0.92058825
       objectReference: {fileID: 0}
     - target: {fileID: 114166732949082290, guid: dc18de6bec49a79408860f55307afa04, type: 3}
       propertyPath: ColorOverLifetime.key1.b
-      value: 0.5283019
+      value: 0.9607843
       objectReference: {fileID: 0}
     - target: {fileID: 114166732949082290, guid: dc18de6bec49a79408860f55307afa04, type: 3}
       propertyPath: ColorOverLifetime.key1.g
-      value: 0.072267726
+      value: 0.31764707
       objectReference: {fileID: 0}
     - target: {fileID: 114166732949082290, guid: dc18de6bec49a79408860f55307afa04, type: 3}
       propertyPath: ColorOverLifetime.key1.r
-      value: 0.44418764
+      value: 0.827451
+      objectReference: {fileID: 0}
+    - target: {fileID: 114166732949082290, guid: dc18de6bec49a79408860f55307afa04, type: 3}
+      propertyPath: ColorOverLifetime.m_NumAlphaKeys
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 224429802145071514, guid: dc18de6bec49a79408860f55307afa04, type: 3}
       propertyPath: m_Pivot.x
@@ -2188,11 +2236,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 224429802145071514, guid: dc18de6bec49a79408860f55307afa04, type: 3}
       propertyPath: m_AnchoredPosition.x
-      value: -395
+      value: -306
       objectReference: {fileID: 0}
     - target: {fileID: 224429802145071514, guid: dc18de6bec49a79408860f55307afa04, type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: 384
+      value: 353
       objectReference: {fileID: 0}
     - target: {fileID: 224429802145071514, guid: dc18de6bec49a79408860f55307afa04, type: 3}
       propertyPath: m_LocalEulerAnglesHint.x
@@ -2425,27 +2473,39 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 114166732949082290, guid: dc18de6bec49a79408860f55307afa04, type: 3}
       propertyPath: Size
-      value: 0.5
+      value: 0.2
       objectReference: {fileID: 0}
     - target: {fileID: 114166732949082290, guid: dc18de6bec49a79408860f55307afa04, type: 3}
       propertyPath: Speed
-      value: 2
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 114166732949082290, guid: dc18de6bec49a79408860f55307afa04, type: 3}
       propertyPath: Gravity
-      value: -1
+      value: -0.5
       objectReference: {fileID: 0}
     - target: {fileID: 114166732949082290, guid: dc18de6bec49a79408860f55307afa04, type: 3}
-      propertyPath: Lifetime
-      value: 5
-      objectReference: {fileID: 0}
-    - target: {fileID: 114166732949082290, guid: dc18de6bec49a79408860f55307afa04, type: 3}
-      propertyPath: EmissionsPerSecond
+      propertyPath: Duration
       value: 10
       objectReference: {fileID: 0}
     - target: {fileID: 114166732949082290, guid: dc18de6bec49a79408860f55307afa04, type: 3}
+      propertyPath: Lifetime
+      value: 10
+      objectReference: {fileID: 0}
+    - target: {fileID: 114166732949082290, guid: dc18de6bec49a79408860f55307afa04, type: 3}
+      propertyPath: EmissionsPerSecond
+      value: 5
+      objectReference: {fileID: 0}
+    - target: {fileID: 114166732949082290, guid: dc18de6bec49a79408860f55307afa04, type: 3}
       propertyPath: ColorOverLifetime.atime0
-      value: 51272
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 114166732949082290, guid: dc18de6bec49a79408860f55307afa04, type: 3}
+      propertyPath: ColorOverLifetime.atime1
+      value: 41827
+      objectReference: {fileID: 0}
+    - target: {fileID: 114166732949082290, guid: dc18de6bec49a79408860f55307afa04, type: 3}
+      propertyPath: ColorOverLifetime.atime2
+      value: 65535
       objectReference: {fileID: 0}
     - target: {fileID: 114166732949082290, guid: dc18de6bec49a79408860f55307afa04, type: 3}
       propertyPath: ColorOverLifetime.ctime0
@@ -2453,31 +2513,43 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 114166732949082290, guid: dc18de6bec49a79408860f55307afa04, type: 3}
       propertyPath: ColorOverLifetime.ctime1
-      value: 20046
+      value: 25829
+      objectReference: {fileID: 0}
+    - target: {fileID: 114166732949082290, guid: dc18de6bec49a79408860f55307afa04, type: 3}
+      propertyPath: ColorOverLifetime.key0.a
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 114166732949082290, guid: dc18de6bec49a79408860f55307afa04, type: 3}
       propertyPath: ColorOverLifetime.key0.b
-      value: 0.38816386
+      value: 0.37254903
       objectReference: {fileID: 0}
     - target: {fileID: 114166732949082290, guid: dc18de6bec49a79408860f55307afa04, type: 3}
       propertyPath: ColorOverLifetime.key0.g
-      value: 0.19344072
+      value: 0.039215688
       objectReference: {fileID: 0}
     - target: {fileID: 114166732949082290, guid: dc18de6bec49a79408860f55307afa04, type: 3}
       propertyPath: ColorOverLifetime.key0.r
-      value: 0.5943396
+      value: 0.454902
+      objectReference: {fileID: 0}
+    - target: {fileID: 114166732949082290, guid: dc18de6bec49a79408860f55307afa04, type: 3}
+      propertyPath: ColorOverLifetime.key1.a
+      value: 0.92058825
       objectReference: {fileID: 0}
     - target: {fileID: 114166732949082290, guid: dc18de6bec49a79408860f55307afa04, type: 3}
       propertyPath: ColorOverLifetime.key1.b
-      value: 0.5283019
+      value: 0.9607843
       objectReference: {fileID: 0}
     - target: {fileID: 114166732949082290, guid: dc18de6bec49a79408860f55307afa04, type: 3}
       propertyPath: ColorOverLifetime.key1.g
-      value: 0.072267726
+      value: 0.31764707
       objectReference: {fileID: 0}
     - target: {fileID: 114166732949082290, guid: dc18de6bec49a79408860f55307afa04, type: 3}
       propertyPath: ColorOverLifetime.key1.r
-      value: 0.44418764
+      value: 0.827451
+      objectReference: {fileID: 0}
+    - target: {fileID: 114166732949082290, guid: dc18de6bec49a79408860f55307afa04, type: 3}
+      propertyPath: ColorOverLifetime.m_NumAlphaKeys
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 224429802145071514, guid: dc18de6bec49a79408860f55307afa04, type: 3}
       propertyPath: m_Pivot.x
@@ -2545,11 +2617,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 224429802145071514, guid: dc18de6bec49a79408860f55307afa04, type: 3}
       propertyPath: m_AnchoredPosition.x
-      value: 408
+      value: 321
       objectReference: {fileID: 0}
     - target: {fileID: 224429802145071514, guid: dc18de6bec49a79408860f55307afa04, type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: 402
+      value: 359
       objectReference: {fileID: 0}
     - target: {fileID: 224429802145071514, guid: dc18de6bec49a79408860f55307afa04, type: 3}
       propertyPath: m_LocalEulerAnglesHint.x
